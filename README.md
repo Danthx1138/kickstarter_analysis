@@ -13,4 +13,5 @@ The challenge with the Pivot table "Theater Outcomes VS Launch" came with breaki
 [Microsoft support](https://support.microsoft.com/en-us/office/group-or-ungroup-data-in-a-pivottable-c9d1ddd0-6580-47d1-82bc-c84a5a340725?ui=en-us&rs=en-us&ad=us),
 I was able to format the rows to months.
 #### Results
-Conclusions that can be drawn from the excercise are that launch dates in May procuce the most outcomes for Successful and failed results.  The trend of Succesful outcomes declines from May to September.
+Conclusions that can be drawn from the Outcomes Vs Launch Date excercise are that launch dates in May procuce the most outcomes for Successful and failed results.  The trend of Succesful outcomes declines from May to September.
+With Regard to the Outcomes VS Goals data and pivot table, Successful campaigns occurred most frequently in lower goal ranges, 5000 or less, and failed campaigns generally increased in higher goal ranges, 20000 to 30000.  There was also a spike in successful campaigns 35000 to 44999 range.
