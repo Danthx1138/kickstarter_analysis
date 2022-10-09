@@ -15,3 +15,4 @@ I was able to format the rows to months.
 #### Results
 Conclusions that can be drawn from the Outcomes Vs Launch Date excercise are that launch dates in May procuce the most outcomes for Successful and failed results.  The trend of Succesful outcomes declines from May to September.
 With Regard to the Outcomes VS Goals data and pivot table, Successful campaigns occurred most frequently in lower goal ranges, 5000 or less, and failed campaigns generally increased in higher goal ranges, 20000 to 30000.  There was also a spike in successful campaigns 35000 to 44999 range.
+The limitations of the dataset may arise from outliers skewing the data to a particular direction, right or left.  In this case, to the right with he mean being greater, or to the right of the median.
