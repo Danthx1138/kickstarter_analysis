@@ -17,8 +17,8 @@ Conclusions that can be drawn from the Outcomes Vs Launch Date excercise are tha
 With Regard to the Outcomes VS Goals data and pivot table, Successful campaigns occurred most frequently in lower goal ranges, 5000 or less, and failed campaigns generally increased in higher goal ranges, 20000 to 30000.  There was also a spike in successful campaigns 35000 to 44999 range.
 The limitations of the dataset may arise from outliers skewing the data to a particular direction, right or left.  In this case, to the right with he mean being greater, or to the right of the median.
 
-![Outcomes Vs Launch](https://github.com/Danthx1138/kickstarter_analysis/blob/main/Resources/Outcome_VS_Goals.png)
+![Outcomes Vs Goals](https://github.com/Danthx1138/kickstarter_analysis/blob/main/Resources/Outcome_VS_Goals.png)
 
-![Outcomes VS Goals](
+![Outcomes VS Launch](
 
 
