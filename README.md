@@ -19,4 +19,6 @@ The limitations of the dataset may arise from outliers skewing the data to a par
 
 ![Outcomes Vs Launch](https://github.com/Danthx1138/kickstarter_analysis/blob/main/Resources/Outcome_VS_Goals.png)
 
+![Outcomes VS Goals](
+
 
